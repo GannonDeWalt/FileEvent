@@ -1,0 +1,16 @@
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\FileEvent.exe
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\FileEvent.deps.json
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\FileEvent.runtimeconfig.json
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\FileEvent.runtimeconfig.dev.json
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\FileEvent.dll
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\ref\FileEvent.dll
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp5.0\FileEvent.pdb
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.csprojAssemblyReference.cache
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.AssemblyInfoInputs.cache
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.AssemblyInfo.cs
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.csproj.CoreCompileInputs.cache
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.dll
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\ref\FileEvent.dll
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.pdb
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp5.0\FileEvent.genruntimeconfig.cache

@@ -4,35 +4,37 @@ using System.Net;
 
 namespace FileEvent
 {
-    public class FileWriter{
-        
-        public event EventHandler<WriteCompleteEventArgs> handler;
-        WriteCompleteEventArgs writeArgs = new WriteCompleteEventArgs("fdf");
-
-        public void writeToFile(string message){
-            //write to text.txt
-            File.AppendAllText("text.txt", message);
-            OnWriteComplete(writeArgs);
-        }
-        
-        // public delegate OnWriteComplete(WriteCompleteEventArgs e);
-        protected virtual void OnWriteComplete(WriteCompleteEventArgs e)
-        {
-            if(handler != null)  handler(this, e);
-        }
-
-        
-    }
-        
-    }
 
     public class WriteCompleteEventArgs : EventArgs
     {
-        private string message;
+        public string message1 { get; set; }
 
-        public WriteCompleteEventArgs(string message)
+    }
+
+    public class FileWriter
+    {
+
+        public event EventHandler<WriteCompleteEventArgs> handler;
+        //WriteCompleteEventArgs writeArgs = new WriteCompleteEventArgs("fdf");
+
+        public void writeToFile(string message)
         {
-            this.message = message;
+            //write to text.txt
+            File.AppendAllText("text.txt", message);
+            OnWriteComplete(message);
         }
 
+        // public delegate OnWriteComplete(WriteCompleteEventArgs e);
+        protected virtual void OnWriteComplete(string message)
+        {
+            if (handler != null)
+                handler(this, new WriteCompleteEventArgs() { message1 = message });
+        }
+
+
+    }
+
+
 }
+
+
