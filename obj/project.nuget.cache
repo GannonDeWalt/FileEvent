@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HRfckrDUXd/zVipxr9C5gdDcTp78UpRPGl7uf/H6BIBISAEMEjtFGIv3at6F6wCJSOhzxk9ZvU9C9xKzK2ggUQ==",
+  "dgSpecHash": "ZTk9i58Mhju6Xkt2eKi8pGU6WDq5Zdnvj+aItk4uvs3PqqK/69vnjurO71VSf06ocUs3Oc78K3czrIfyQSz52A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj",
+  "projectFilePath": "C:\\temp\\DotNet\\FileEvent\\FileEvent.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\rober\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
   ],
   "logs": []
 }

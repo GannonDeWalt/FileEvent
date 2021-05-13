@@ -24,3 +24,16 @@ C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csproj.
 C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.dll
 C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.pdb
 C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.genruntimeconfig.cache
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.exe
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.deps.json
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.runtimeconfig.json
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.runtimeconfig.dev.json
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.dll
+C:\temp\DotNet\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.pdb
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csprojAssemblyReference.cache
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.AssemblyInfoInputs.cache
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.AssemblyInfo.cs
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csproj.CoreCompileInputs.cache
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.dll
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.pdb
+C:\temp\DotNet\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.genruntimeconfig.cache
