@@ -1,0 +1,13 @@
+C:\Users\Lntinfotech\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.exe
+C:\Users\Lntinfotech\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.deps.json
+C:\Users\Lntinfotech\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.runtimeconfig.json
+C:\Users\Lntinfotech\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.runtimeconfig.dev.json
+C:\Users\Lntinfotech\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.dll
+C:\Users\Lntinfotech\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.pdb
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.AssemblyInfo.cs
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.dll
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.pdb
+C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.genruntimeconfig.cache

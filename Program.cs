@@ -6,7 +6,9 @@ namespace FileEvent
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FileWriter fileWriter = new FileWriter();
+            fileWriter.writeToFile("\nHowdy, World!");
+
         }
     }
 }
