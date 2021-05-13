@@ -1,0 +1,19 @@
+﻿<changelist name="Uncommitted_changes_before_Update_at_13-May-21_14_57_[Default_Changelist]" date="1620932248725" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.FileEvent.dir/.idea/shelf/Uncommitted_changes_before_Update_at_13-May-21_14_57_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 13-May-21 14:57 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="obj/Debug/netcoreapp3.1/FileEvent.assets.cache" />
+    <option name="AFTER_PATH" value="obj/Debug/netcoreapp3.1/FileEvent.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.FileEvent.dir/.idea/shelf/Uncommitted_changes_before_Update_at_13-May-21_14_57_[Default_Changelist]/FileEvent.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.FileEvent.dir/.idea/shelf/Uncommitted_changes_before_Update_at_13-May-21_14_57_[Default_Changelist]/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/Debug/netcoreapp3.1/FileEvent.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="obj/Debug/netcoreapp3.1/FileEvent.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.FileEvent.dir/.idea/shelf/Uncommitted_changes_before_Update_at_13-May-21_14_57_[Default_Changelist]/FileEvent.csprojAssemblyReference.cache" />
+  </binary>
+</changelist>

@@ -1,0 +1,192 @@
+Index: obj/FileEvent.csproj.nuget.g.props
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?>\r\n<Project ToolsVersion=\"14.0\" xmlns=\"http://schemas.microsoft.com/developer/msbuild/2003\">\r\n  <PropertyGroup Condition=\" '$(ExcludeRestorePackageImports)' != 'true' \">\r\n    <RestoreSuccess Condition=\" '$(RestoreSuccess)' == '' \">True</RestoreSuccess>\r\n    <RestoreTool Condition=\" '$(RestoreTool)' == '' \">NuGet</RestoreTool>\r\n    <ProjectAssetsFile Condition=\" '$(ProjectAssetsFile)' == '' \">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>\r\n    <NuGetPackageRoot Condition=\" '$(NuGetPackageRoot)' == '' \">$(UserProfile)\\.nuget\\packages\\</NuGetPackageRoot>\r\n    <NuGetPackageFolders Condition=\" '$(NuGetPackageFolders)' == '' \">C:\\Users\\Lntinfotech\\.nuget\\packages\\</NuGetPackageFolders>\r\n    <NuGetProjectStyle Condition=\" '$(NuGetProjectStyle)' == '' \">PackageReference</NuGetProjectStyle>\r\n    <NuGetToolVersion Condition=\" '$(NuGetToolVersion)' == '' \">5.7.1</NuGetToolVersion>\r\n  </PropertyGroup>\r\n  <ItemGroup Condition=\" '$(ExcludeRestorePackageImports)' != 'true' \">\r\n    <SourceRoot Include=\"$([MSBuild]::EnsureTrailingSlash($(NuGetPackageFolders)))\" />\r\n  </ItemGroup>\r\n  <PropertyGroup>\r\n    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>\r\n  </PropertyGroup>\r\n</Project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/obj/FileEvent.csproj.nuget.g.props b/obj/FileEvent.csproj.nuget.g.props
+--- a/obj/FileEvent.csproj.nuget.g.props	(revision d13459bfb7addfbd5d67ef831e700c4ba227276b)
++++ b/obj/FileEvent.csproj.nuget.g.props	(date 1620929925710)
+@@ -5,9 +5,9 @@
+     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Lntinfotech\.nuget\packages\</NuGetPackageFolders>
++    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\rober\.nuget\packages\</NuGetPackageFolders>
+     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.7.1</NuGetToolVersion>
++    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.8.0</NuGetToolVersion>
+   </PropertyGroup>
+   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+     <SourceRoot Include="$([MSBuild]::EnsureTrailingSlash($(NuGetPackageFolders)))" />
+Index: obj/project.assets.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"version\": 3,\r\n  \"targets\": {\r\n    \".NETCoreApp,Version=v3.1\": {}\r\n  },\r\n  \"libraries\": {},\r\n  \"projectFileDependencyGroups\": {\r\n    \".NETCoreApp,Version=v3.1\": []\r\n  },\r\n  \"packageFolders\": {\r\n    \"C:\\\\Users\\\\Lntinfotech\\\\.nuget\\\\packages\\\\\": {}\r\n  },\r\n  \"project\": {\r\n    \"version\": \"1.0.0\",\r\n    \"restore\": {\r\n      \"projectUniqueName\": \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\FileEvent.csproj\",\r\n      \"projectName\": \"FileEvent\",\r\n      \"projectPath\": \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\FileEvent.csproj\",\r\n      \"packagesPath\": \"C:\\\\Users\\\\Lntinfotech\\\\.nuget\\\\packages\\\\\",\r\n      \"outputPath\": \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\obj\\\\\",\r\n      \"projectStyle\": \"PackageReference\",\r\n      \"configFilePaths\": [\r\n        \"C:\\\\Users\\\\Lntinfotech\\\\AppData\\\\Roaming\\\\NuGet\\\\NuGet.Config\"\r\n      ],\r\n      \"originalTargetFrameworks\": [\r\n        \"netcoreapp3.1\"\r\n      ],\r\n      \"sources\": {\r\n        \"https://api.nuget.org/v3/index.json\": {}\r\n      },\r\n      \"frameworks\": {\r\n        \"netcoreapp3.1\": {\r\n          \"projectReferences\": {}\r\n        }\r\n      },\r\n      \"warningProperties\": {\r\n        \"warnAsError\": [\r\n          \"NU1605\"\r\n        ]\r\n      }\r\n    },\r\n    \"frameworks\": {\r\n      \"netcoreapp3.1\": {\r\n        \"imports\": [\r\n          \"net461\",\r\n          \"net462\",\r\n          \"net47\",\r\n          \"net471\",\r\n          \"net472\",\r\n          \"net48\"\r\n        ],\r\n        \"assetTargetFallback\": true,\r\n        \"warn\": true,\r\n        \"frameworkReferences\": {\r\n          \"Microsoft.NETCore.App\": {\r\n            \"privateAssets\": \"all\"\r\n          }\r\n        },\r\n        \"runtimeIdentifierGraphPath\": \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\3.1.408\\\\RuntimeIdentifierGraph.json\"\r\n      }\r\n    }\r\n  }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/obj/project.assets.json b/obj/project.assets.json
+--- a/obj/project.assets.json	(revision d13459bfb7addfbd5d67ef831e700c4ba227276b)
++++ b/obj/project.assets.json	(date 1620929925743)
+@@ -8,19 +8,19 @@
+     ".NETCoreApp,Version=v3.1": []
+   },
+   "packageFolders": {
+-    "C:\\Users\\Lntinfotech\\.nuget\\packages\\": {}
++    "C:\\Users\\rober\\.nuget\\packages\\": {}
+   },
+   "project": {
+     "version": "1.0.0",
+     "restore": {
+-      "projectUniqueName": "C:\\Users\\Lntinfotech\\FileEvent\\FileEvent.csproj",
++      "projectUniqueName": "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj",
+       "projectName": "FileEvent",
+-      "projectPath": "C:\\Users\\Lntinfotech\\FileEvent\\FileEvent.csproj",
+-      "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
+-      "outputPath": "C:\\Users\\Lntinfotech\\FileEvent\\obj\\",
++      "projectPath": "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj",
++      "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
++      "outputPath": "C:\\Users\\rober\\RiderProjects\\FileEvent\\obj\\",
+       "projectStyle": "PackageReference",
+       "configFilePaths": [
+-        "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
++        "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"
+       ],
+       "originalTargetFrameworks": [
+         "netcoreapp3.1"
+@@ -30,6 +30,7 @@
+       },
+       "frameworks": {
+         "netcoreapp3.1": {
++          "targetAlias": "netcoreapp3.1",
+           "projectReferences": {}
+         }
+       },
+@@ -41,6 +42,7 @@
+     },
+     "frameworks": {
+       "netcoreapp3.1": {
++        "targetAlias": "netcoreapp3.1",
+         "imports": [
+           "net461",
+           "net462",
+@@ -51,12 +53,30 @@
+         ],
+         "assetTargetFallback": true,
+         "warn": true,
++        "downloadDependencies": [
++          {
++            "name": "Microsoft.AspNetCore.App.Ref",
++            "version": "[3.1.10, 3.1.10]"
++          },
++          {
++            "name": "Microsoft.NETCore.App.Host.win-x64",
++            "version": "[3.1.14, 3.1.14]"
++          },
++          {
++            "name": "Microsoft.NETCore.App.Ref",
++            "version": "[3.1.0, 3.1.0]"
++          },
++          {
++            "name": "Microsoft.WindowsDesktop.App.Ref",
++            "version": "[3.1.0, 3.1.0]"
++          }
++        ],
+         "frameworkReferences": {
+           "Microsoft.NETCore.App": {
+             "privateAssets": "all"
+           }
+         },
+-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
++        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+       }
+     }
+   }
+Index: obj/FileEvent.csproj.nuget.dgspec.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"format\": 1,\r\n  \"restore\": {\r\n    \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\FileEvent.csproj\": {}\r\n  },\r\n  \"projects\": {\r\n    \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\FileEvent.csproj\": {\r\n      \"version\": \"1.0.0\",\r\n      \"restore\": {\r\n        \"projectUniqueName\": \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\FileEvent.csproj\",\r\n        \"projectName\": \"FileEvent\",\r\n        \"projectPath\": \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\FileEvent.csproj\",\r\n        \"packagesPath\": \"C:\\\\Users\\\\Lntinfotech\\\\.nuget\\\\packages\\\\\",\r\n        \"outputPath\": \"C:\\\\Users\\\\Lntinfotech\\\\FileEvent\\\\obj\\\\\",\r\n        \"projectStyle\": \"PackageReference\",\r\n        \"configFilePaths\": [\r\n          \"C:\\\\Users\\\\Lntinfotech\\\\AppData\\\\Roaming\\\\NuGet\\\\NuGet.Config\"\r\n        ],\r\n        \"originalTargetFrameworks\": [\r\n          \"netcoreapp3.1\"\r\n        ],\r\n        \"sources\": {\r\n          \"https://api.nuget.org/v3/index.json\": {}\r\n        },\r\n        \"frameworks\": {\r\n          \"netcoreapp3.1\": {\r\n            \"projectReferences\": {}\r\n          }\r\n        },\r\n        \"warningProperties\": {\r\n          \"warnAsError\": [\r\n            \"NU1605\"\r\n          ]\r\n        }\r\n      },\r\n      \"frameworks\": {\r\n        \"netcoreapp3.1\": {\r\n          \"imports\": [\r\n            \"net461\",\r\n            \"net462\",\r\n            \"net47\",\r\n            \"net471\",\r\n            \"net472\",\r\n            \"net48\"\r\n          ],\r\n          \"assetTargetFallback\": true,\r\n          \"warn\": true,\r\n          \"frameworkReferences\": {\r\n            \"Microsoft.NETCore.App\": {\r\n              \"privateAssets\": \"all\"\r\n            }\r\n          },\r\n          \"runtimeIdentifierGraphPath\": \"C:\\\\Program Files\\\\dotnet\\\\sdk\\\\3.1.408\\\\RuntimeIdentifierGraph.json\"\r\n        }\r\n      }\r\n    }\r\n  }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/obj/FileEvent.csproj.nuget.dgspec.json b/obj/FileEvent.csproj.nuget.dgspec.json
+--- a/obj/FileEvent.csproj.nuget.dgspec.json	(revision d13459bfb7addfbd5d67ef831e700c4ba227276b)
++++ b/obj/FileEvent.csproj.nuget.dgspec.json	(date 1620929925763)
+@@ -1,20 +1,20 @@
+ {
+   "format": 1,
+   "restore": {
+-    "C:\\Users\\Lntinfotech\\FileEvent\\FileEvent.csproj": {}
++    "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj": {}
+   },
+   "projects": {
+-    "C:\\Users\\Lntinfotech\\FileEvent\\FileEvent.csproj": {
++    "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj": {
+       "version": "1.0.0",
+       "restore": {
+-        "projectUniqueName": "C:\\Users\\Lntinfotech\\FileEvent\\FileEvent.csproj",
++        "projectUniqueName": "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj",
+         "projectName": "FileEvent",
+-        "projectPath": "C:\\Users\\Lntinfotech\\FileEvent\\FileEvent.csproj",
+-        "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
+-        "outputPath": "C:\\Users\\Lntinfotech\\FileEvent\\obj\\",
++        "projectPath": "C:\\Users\\rober\\RiderProjects\\FileEvent\\FileEvent.csproj",
++        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
++        "outputPath": "C:\\Users\\rober\\RiderProjects\\FileEvent\\obj\\",
+         "projectStyle": "PackageReference",
+         "configFilePaths": [
+-          "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
++          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"
+         ],
+         "originalTargetFrameworks": [
+           "netcoreapp3.1"
+@@ -24,6 +24,7 @@
+         },
+         "frameworks": {
+           "netcoreapp3.1": {
++            "targetAlias": "netcoreapp3.1",
+             "projectReferences": {}
+           }
+         },
+@@ -35,6 +36,7 @@
+       },
+       "frameworks": {
+         "netcoreapp3.1": {
++          "targetAlias": "netcoreapp3.1",
+           "imports": [
+             "net461",
+             "net462",
+@@ -45,12 +47,30 @@
+           ],
+           "assetTargetFallback": true,
+           "warn": true,
++          "downloadDependencies": [
++            {
++              "name": "Microsoft.AspNetCore.App.Ref",
++              "version": "[3.1.10, 3.1.10]"
++            },
++            {
++              "name": "Microsoft.NETCore.App.Host.win-x64",
++              "version": "[3.1.14, 3.1.14]"
++            },
++            {
++              "name": "Microsoft.NETCore.App.Ref",
++              "version": "[3.1.0, 3.1.0]"
++            },
++            {
++              "name": "Microsoft.WindowsDesktop.App.Ref",
++              "version": "[3.1.0, 3.1.0]"
++            }
++          ],
+           "frameworkReferences": {
+             "Microsoft.NETCore.App": {
+               "privateAssets": "all"
+             }
+           },
+-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
++          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+         }
+       }
+     }

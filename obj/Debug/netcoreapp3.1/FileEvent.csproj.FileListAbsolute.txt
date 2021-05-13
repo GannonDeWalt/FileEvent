@@ -11,3 +11,16 @@ C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csproj.CoreComp
 C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.dll
 C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.pdb
 C:\Users\Lntinfotech\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.genruntimeconfig.cache
+C:\Users\rober\RiderProjects\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.exe
+C:\Users\rober\RiderProjects\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.deps.json
+C:\Users\rober\RiderProjects\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.runtimeconfig.json
+C:\Users\rober\RiderProjects\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.runtimeconfig.dev.json
+C:\Users\rober\RiderProjects\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.dll
+C:\Users\rober\RiderProjects\FileEvent\bin\Debug\netcoreapp3.1\FileEvent.pdb
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csprojAssemblyReference.cache
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.AssemblyInfoInputs.cache
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.AssemblyInfo.cs
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.csproj.CoreCompileInputs.cache
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.dll
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.pdb
+C:\Users\rober\RiderProjects\FileEvent\obj\Debug\netcoreapp3.1\FileEvent.genruntimeconfig.cache
